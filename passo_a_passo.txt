@@ -1,0 +1,5 @@
+1° Gerar relatoria para cada UGR - relatorio de serviços pendentes
+2° Baixar cada um dos relatorios gerados
+3° Formatação das tabelas(html), gera o anexo contendo todos os serviços pendentes por UGR, geral de abastecimento
+4° Screenshot
+5° envio dos emails 

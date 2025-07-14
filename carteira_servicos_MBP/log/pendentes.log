@@ -1,0 +1,55 @@
+2025-06-12 13:10:05,232 - ERROR - An error occurred: [Errno 2] No such file or directory: 'C://Users//poliveira.eficien.SBSP//cod_carteira_servicos//carteira_servicos_MBP//styled_htmls//extremo_norte.txt'
+2025-06-12 14:20:25,567 - ERROR - An error occurred: [WinError 3] O sistema não pode encontrar o caminho especificado: 'C:\\Users\\poliveira.eficien.SBSP\\Desktop\\cod_carteira_servicos\\pendentes'
+2025-06-12 14:20:53,353 - ERROR - An error occurred: [WinError 3] O sistema não pode encontrar o caminho especificado: 'C:\\Users\\poliveira.eficien.SBSP\\Desktop\\cod_carteira_servicos\\pendentes'
+2025-06-12 14:22:19,813 - ERROR - An error occurred: [WinError 3] O sistema não pode encontrar o caminho especificado: 'C:\\Users\\poliveira.eficien.SBSP\\Desktop\\cod_carteira_servicos\\pendentes'
+2025-06-12 15:16:05,767 - ERROR - An error occurred: [WinError 3] O sistema não pode encontrar o caminho especificado: 'C:\\Users\\poliveira.eficien.SBSP\\Desktop\\cod_carteira_servicos\\pendentes'
+2025-06-12 15:18:02,968 - ERROR - An error occurred: Cannot save file into a non-existent directory: 'C:\Users\poliveira.eficien.SBSP\Desktop\cod_carteira_servicos\temp_file'
+2025-06-12 15:21:36,406 - ERROR - An error occurred: [Errno 2] No such file or directory: 'C://Users//poliveira.eficien.SBSP//cod_carteira_servicos//carteira_servicos_MBP//styled_htmls//extremo_norte.txt'
+2025-06-12 15:28:33,887 - ERROR - An error occurred: [Errno 2] No such file or directory: 'C://Users//poliveira.eficien.SBSP//cod_carteira_servicos//carteira_servicos_MBP//styled_htmls//extremo_norte.txt'
+2025-06-12 15:44:59,949 - ERROR - An error occurred: [Errno 2] No such file or directory: 'C://Users//poliveira.eficien.SBSP//cod_carteira_servicos//carteira_servicos_MBP//styled_htmls//extremo_norte.txt'
+2025-06-13 09:43:41,725 - ERROR - An error occurred: [Errno 2] No such file or directory: 'C://Users//poliveira.eficien.SBSP//cod_carteira_servicos//carteira_servicos_MBP//styled_htmls//extremo_norte.txt'
+2025-06-13 09:49:51,168 - ERROR - An error occurred: [Errno 2] No such file or directory: 'C://Users//poliveira.eficien.SBSP//cod_carteira_servicos//carteira_serviços_MBP//styled_htmls//extremo_norte.txt'
+2025-06-13 09:51:06,070 - ERROR - An error occurred: [Errno 2] No such file or directory: 'C://Users//poliveira.eficien.SBSP//cod_carteira_servicos//carteira_serviços_MBP//styled_htmls//extremo_norte.txt'
+2025-06-13 09:58:19,414 - ERROR - An error occurred: [Errno 2] No such file or directory: 'C://Users//poliveira.eficien.SBSP//cod_carteira_servicos//carteira_serviços_MBP//styled_htmls//extremo_norte.txt'
+2025-06-13 09:59:33,834 - ERROR - An error occurred: [Errno 2] No such file or directory: 'C://Users//poliveira.eficien.SBSP//cod_carteira_servicos//carteira_serviços_MBP//styled_htmls//extremo_norte.txt'
+2025-06-13 10:00:55,149 - ERROR - An error occurred: [Errno 2] No such file or directory: 'C://Users//poliveira.eficien.SBSP//cod_carteira_servicos//carteira_serviços_MBP//styled_htmls//extremo_norte.txt'
+2025-06-13 10:04:23,704 - ERROR - An error occurred: [Errno 2] No such file or directory: 'C://Users//poliveira.eficien.SBSP//cod_carteira_servicos//carteira_servicos_MBP//styled_htmls//extremo_norte.txt'
+2025-06-13 10:09:06,920 - INFO - Code executed successfully.
+2025-06-13 15:51:44,548 - ERROR - An error occurred: Cannot save file into a non-existent directory: 'C:\Users\poliveira.eficien.SBSP\Desktop\cod_carteira_servicos\temp_file'
+2025-06-13 15:56:05,589 - ERROR - An error occurred: Cannot save file into a non-existent directory: 'C:\Users\poliveira.eficien.SBSP\Desktop\cod_carteira_servicos\temp_file'
+2025-06-16 09:25:21,854 - ERROR - An error occurred: Cannot save file into a non-existent directory: 'C:\Users\poliveira.eficien.SBSP\Desktop\cod_carteira_servicos\temp_file'
+2025-06-16 15:28:09,655 - INFO - Code executed successfully.
+2025-06-17 08:16:39,736 - INFO - Code executed successfully.
+2025-06-17 17:41:35,687 - INFO - Code executed successfully.
+2025-06-18 06:31:40,875 - INFO - Code executed successfully.
+2025-06-18 17:41:42,596 - INFO - Code executed successfully.
+2025-06-19 06:31:44,904 - INFO - Code executed successfully.
+2025-06-19 17:41:40,881 - INFO - Code executed successfully.
+2025-06-20 06:31:39,689 - INFO - Code executed successfully.
+2025-06-20 17:41:37,593 - INFO - Code executed successfully.
+2025-06-21 06:31:32,768 - INFO - Code executed successfully.
+2025-06-21 17:41:33,007 - INFO - Code executed successfully.
+2025-06-22 06:31:36,560 - INFO - Code executed successfully.
+2025-06-22 17:41:55,871 - INFO - Code executed successfully.
+2025-06-23 06:31:55,569 - INFO - Code executed successfully.
+2025-06-23 17:41:48,190 - INFO - Code executed successfully.
+2025-06-24 06:32:35,447 - INFO - Code executed successfully.
+2025-06-24 17:42:15,357 - INFO - Code executed successfully.
+2025-06-25 06:31:13,142 - INFO - Code executed successfully.
+2025-06-25 17:41:40,554 - INFO - Code executed successfully.
+2025-06-26 06:31:56,180 - INFO - Code executed successfully.
+2025-06-26 17:41:50,635 - INFO - Code executed successfully.
+2025-06-27 06:31:44,045 - INFO - Code executed successfully.
+2025-06-27 17:41:59,651 - INFO - Code executed successfully.
+2025-06-28 06:32:01,254 - INFO - Code executed successfully.
+2025-06-28 17:42:00,452 - INFO - Code executed successfully.
+2025-06-29 06:32:22,422 - INFO - Code executed successfully.
+2025-06-29 17:41:11,967 - INFO - Code executed successfully.
+2025-06-30 06:31:05,940 - INFO - Code executed successfully.
+2025-06-30 17:41:31,530 - INFO - Code executed successfully.
+2025-07-01 06:29:42,314 - ERROR - An error occurred: No objects to concatenate
+2025-07-01 08:29:43,065 - ERROR - An error occurred: No objects to concatenate
+2025-07-01 09:49:32,527 - INFO - Code executed successfully.
+2025-07-02 06:31:30,815 - INFO - Code executed successfully.
+2025-07-02 17:41:24,678 - INFO - Code executed successfully.
+2025-07-03 06:31:18,687 - INFO - Code executed successfully.

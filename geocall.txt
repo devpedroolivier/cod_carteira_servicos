@@ -1,0 +1,46 @@
+1° entrar no geocall
+acessar geocall: https://geoprd.sabesp.com.br/sabespwfm/
+login: 33627
+senha: Rina2517@
+
+2° clicar em manobra
+#TBB_tbm2 > div:nth-child(8)
+xpath: //*[@id="TBB_tbm2"]/div[8]
+
+3° clicar em manobra finalizada (checkbox)
+#\35 99da2
+xpath: //*[@id="599da2"]
+4° Filtragem data dia 01 até o dia corrente
+Data de Fechamento de	
+#\35 99d9e_D
+xpath: //*[@id="599d9e_D"]
+
+Data de Fechamento até
+#\35 99d9f_D
+//*[@id="599d9f_D"]
+
+5° clilcar em buscar
+#\35 99da3
+//*[@id="599da3"]
+
+6° cliccar na tres listras laranjas
+#AFRAME_599da4 > div.tvCaption > div > img.icon.Enabled.icon_menu
+xpath: //*[@id="AFRAME_599da4"]/div[1]/div/img[2]
+
+7°Relatorio de manobra
+
+
+acatamentos
+1° lista os
+2° clilcar em pesquisar OS
+3° filtragem data de inicio praz de ao
+4°clicar TSS
+5° pesquisar os tipos de serviço
+- falta local e geral
+- pressão local e geral
+6° - ok
+7° - buscar
+8° - 3 listras 
+9° - exportar para excel
+10° nome pesquisa: lista_os
+pasta local: onoa
