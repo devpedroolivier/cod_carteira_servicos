@@ -7,7 +7,7 @@ caminho_python = r"C:\Python312\python.exe"
 caminho_main = r"C:\Users\poliveira.eficien.SBSP\Desktop\cod_carteira_servicos\main_ON.py"
 
 # Horários alvo no formato HH:MM
-horarios_programados = {"06:20", "17:30"}
+horarios_programados = {"06:00", "17:00"}
 executados_hoje = set()
 
 print("⏱️ Scheduler iniciado. Aguardando horários programados...")
